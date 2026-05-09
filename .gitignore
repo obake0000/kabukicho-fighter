@@ -3,3 +3,6 @@ node_modules
 mani-script.js
 _debug_*.html
 *.log
+AGENTS.md
+README.md
+scripts/
